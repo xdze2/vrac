@@ -5,13 +5,19 @@
   
 - MIT Deep Learning and Artificial Intelligence Lectures (Lex Fridman)  
   https://deeplearning.mit.edu/  
-  
+ 
+- DS-GA 1008 · SPRING 2020 · NYU CENTER FOR DATA SCIENCE  
+  Yann LeCun & Alfredo Canziani  
+ https://atcold.github.io/pytorch-Deep-Learning/?fbclid=IwAR2eOdot67TmKenYUtAkMP0UNnz8WYFjmGorouGX5FYGc9FBlFDW9svhsqg
+
+
 - An Introduction to Statistical Learning  
   Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani  
   http://faculty.marshall.usc.edu/gareth-james/ISL/
   
 - Trevor Hastie's books  
  https://web.stanford.edu/~hastie/pub.htm
+ 
  
  
  
