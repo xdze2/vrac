@@ -43,7 +43,27 @@ http://www-math.mit.edu/~gs/
   * Lecture 25: Stochastic Gradient Descent   
   * Lecture 26: Structure of Neural Nets for Deep Learning  
 
+- Mathematical Methods for Engineers II, MIT 18.086  
+https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/
 
+- Computational Science and Engineering I, MIT 18.085   
+https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/video-lectures/
+
+
+## Computer Science
+
+- Introduction to Algorithms, Prof. Erik Demaine, Prof. Srini Devadas, MIT 6.006  
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
+
+- Introduction to Computational Thinking and Data Science, MIT 6.0002  
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/
+ 
+- Advanced Data Structures, Prof. Erik Demaine, MIT 6.851   
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/
+
+- The Society of Mind, Prof. Marvin Minsky  
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
+ 
  
  ## link of link
  
