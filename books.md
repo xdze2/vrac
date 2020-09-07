@@ -87,3 +87,18 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-t
  - https://developers.google.com/machine-learning/crash-course?hl=fr
  - https://ai.google/education/
  
+ # news & blog
+ 
+ - https://ai.googleblog.com/
+ - https://ai.facebook.com/blog/
+ 
+ 
+ ## France
+ 
+ - Inria: https://www.youtube.com/user/InriaChannel/playlists
+
+- College de France -  Stéphane Mallat - Sciences des données  
+https://www.college-de-france.fr/site/stephane-mallat/_audiovideos.htm
+
+- INTELLIGENCE ARTIFICIELLE,  ENS  
+https://www.youtube.com/playlist?list=PLp--TwPwLx1WJI0ll1Rs93kfdjtHWKdVA
