@@ -1,4 +1,5 @@
-## Statistics and Machine Learning
+
+## Deep Learning
 
 - MIT 6.S191 Introduction to Deep Learning  
   http://introtodeeplearning.com/
@@ -10,6 +11,10 @@
   Yann LeCun & Alfredo Canziani  
  https://atcold.github.io/pytorch-Deep-Learning/?fbclid=IwAR2eOdot67TmKenYUtAkMP0UNnz8WYFjmGorouGX5FYGc9FBlFDW9svhsqg
 
+- https://www.fast.ai/  Making neural nets uncool again
+
+
+## Statistics and Machine Learning
 
 - An Introduction to Statistical Learning  
   Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani  
@@ -67,7 +72,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-ad
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/
  
  
- ## link of link
+ ## link of links
  
  - https://stats.stackexchange.com/questions/18973/book-for-reading-before-elements-of-statistical-learning
  - https://news.ycombinator.com/item?id=16157843
@@ -102,3 +107,6 @@ https://www.college-de-france.fr/site/stephane-mallat/_audiovideos.htm
 
 - INTELLIGENCE ARTIFICIELLE,  ENS  
 https://www.youtube.com/playlist?list=PLp--TwPwLx1WJI0ll1Rs93kfdjtHWKdVA
+
+- dataflowr, deep learning courses  (ENS, école polytechnique, ...etc)  
+https://mlelarge.github.io/dataflowr-web/
