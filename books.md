@@ -3,6 +3,9 @@
 - MIT 6.S191 Introduction to Deep Learning  
   http://introtodeeplearning.com/
   
+- MIT Deep Learning and Artificial Intelligence Lectures (Lex Fridman)  
+  https://deeplearning.mit.edu/  
+  
 - An Introduction to Statistical Learning  
   Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani  
   http://faculty.marshall.usc.edu/gareth-james/ISL/
@@ -12,10 +15,17 @@
  
  
  
- # link of link
+ ## Stanford
  
- - https://stats.stackexchange.com/questions/18973/book-for-reading-before-elements-of-statistical-learning
+- Stanford CS231n: Convolutional Neural Networks for Visual Recognition  
+  https://cs231n.github.io/
  
+ - Lecture 1 - Welcome | Stanford CS229: Machine Learning (Autumn 2018)  
+  https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+ 
+ - Stanford CS230: Deep Learning | Autumn 2018 | Lecture 1 - Class Introduction and Logistics
+   https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+   
  
  ## Gilbert Strang
  
@@ -27,3 +37,25 @@ http://www-math.mit.edu/~gs/
   * Lecture 25: Stochastic Gradient Descent   
   * Lecture 26: Structure of Neural Nets for Deep Learning  
 
+
+ 
+ ## link of link
+ 
+ - https://stats.stackexchange.com/questions/18973/book-for-reading-before-elements-of-statistical-learning
+ - https://news.ycombinator.com/item?id=16157843
+ 
+ 
+ ### big
+ 
+ - https://www.youtube.com/c/harvard/playlists
+ - https://www.youtube.com/c/mitocw/playlists
+ - https://www.youtube.com/c/stanford/playlists
+ - https://www.youtube.com/c/cmu/playlists
+ - https://www.youtube.com/user/YaleCourses/playlists
+ - https://www.youtube.com/user/caltech/playlists
+ - https://www.youtube.com/user/GoogleTechTalks
+ 
+ ## maybe
+ - https://developers.google.com/machine-learning/crash-course?hl=fr
+ - https://ai.google/education/
+ 
