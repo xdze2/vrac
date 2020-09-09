@@ -27,6 +27,9 @@
  - Statistics for Applications, Prof. Philippe Rigollet, MIT 18.650 / 18.6501  
  https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/
 
+- Data reduction and error analysis for physical sciences (2002)  
+  Philip Bevington, D. Keith Robinson
+  
  
  ## Stanford
  
